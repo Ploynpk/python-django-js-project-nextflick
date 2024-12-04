@@ -23,6 +23,7 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
 ## 📥 Getting Started
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/your-username/python-django-project-nextflick.git
     ```
@@ -32,25 +33,29 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
          ```
      
 2. Set Up a Virtual Environment:
+   
     ```bash
     python3.13 -m venv myenv
     source myenv/bin/activate
     ```
 
     - Upgrade pip and Install Django (if needed):
+      
         ```bash
         python -m pip install --upgrade pip
         pip3 install django
         ```
 
 3. Run the development server:
+   
     ```bash
     python3 manage.py runserver
     ```
 
-4. Open the app in your browser:
+4. Open the app in your browser
 
    Visit the following URL:
+   
      ```bash
      http://127.0.0.1:8000
      ```
