@@ -36,6 +36,7 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
    
     ```bash
     python3.13 -m venv myenv
+    
     source myenv/bin/activate
     ```
 
@@ -43,6 +44,7 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
       
         ```bash
         python -m pip install --upgrade pip
+        
         pip3 install django
         ```
 
