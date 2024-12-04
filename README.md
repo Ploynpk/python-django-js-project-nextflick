@@ -12,11 +12,13 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, Django  
 
+
 ## 🚀 Features
 - Search for movies and TV shows.
 - Create your own personal movie library.
 - Rate and review movies.
 - User-friendly interface.
+
 
 ## 📥 Getting Started
 
@@ -45,5 +47,8 @@ On your terminal:
     python3 manage.py runserver
     ```
 
-4. Open the app in your browser at `http://127.0.0.1:8000/`.
+4. Open the app in your browser at
+     ```bash
+        http://127.0.0.1:8000
+     ```
 
