@@ -2,21 +2,15 @@
 
 ![NextFlick Logo](https://github.com/Ploynpk/python-django-js-project-nextflick/blob/39692285d728cb4ccff9a27b824228080514d96e/static/assests/nextflick-logo.png)
 
-## 🎥 🎞️ **NextFlick** 🎬 📺 Your Personal Home Cinema Experience
+## 🎥 🎞️ **NextFlick** 🎬 📺 Your Home Cinema Experience
 
 🍿 Bringing the Big Screen to Your Home 🍿
 NextFlick aims to provide a seamless home cinema experience by offering an intuitive platform to discover, organize, and enjoy your favorite movies and TV shows, all in one place. Whether you're hosting a movie night or building your own personal library, NextFlick offers an interactive and user-friendly interface for the ultimate entertainment experience.
 
 ## 💻 Tech Stack
 
-**Frontend:**
-- HTML
-- CSS
-- JavaScript
-
-**Backend:**
-- Python
-- Django
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python, Django  
 
 ## 🚀 Features
 - Search for movies and TV shows.
@@ -30,15 +24,25 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
     ```bash
     git clone https://github.com/your-username/python-django-project-nextflick.git
     ```
-
-2. Install dependencies:
+On your terminal:
+     ```bash
+     cd python-django-project-nextflick
+     ```
+2. Set Up a Virtual Environment:
     ```bash
-    pip install -r requirements.txt
+    python3.13 -m venv myenv
+    source myenv/bin/activate
     ```
 
-3. Run the development server:
+3. Upgrade pip and Install Django (if needed):
     ```bash
-    python manage.py runserver
+    python -m pip install --upgrade pip
+    pip3 install django
+    ```
+
+4. Run the development server:
+    ```bash
+    python3 manage.py runserver
     ```
 
 4. Open the app in your browser at `http://127.0.0.1:8000/`.
