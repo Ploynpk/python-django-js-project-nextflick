@@ -3,10 +3,10 @@
 
 ![NextFlick Logo](https://github.com/Ploynpk/python-django-js-project-nextflick/blob/39692285d728cb4ccff9a27b824228080514d96e/static/assests/nextflick-logo.png)
 
-## 🎞️ **NextFlick** 🎞️ Your Personal Home Cinema Experience
+## 🎥 🎞️**NextFlick** 🎬 📺 Your Personal Home Cinema Experience
 
 ##
-🌟 Bringing the Big Screen to Your Home 🌟
+🍿 Bringing the Big Screen to Your Home 🍿
 NextFlick aims to provide a seamless home cinema experience by offering an intuitive platform to discover, organize, and enjoy your favorite movies and TV shows, all in one place. Whether you're hosting a movie night or building your own personal library, NextFlick offers an interactive and user-friendly interface for the ultimate entertainment experience.
 
 ## 💻 Tech Stack
