@@ -50,6 +50,6 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
 
 4. Open the app in your browser at
      ```bash
-        http://127.0.0.1:8000
+     http://127.0.0.1:8000
      ```
 
