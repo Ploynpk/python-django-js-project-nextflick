@@ -3,7 +3,7 @@
 
 ![NextFlick Logo](https://github.com/Ploynpk/python-django-js-project-nextflick/blob/39692285d728cb4ccff9a27b824228080514d96e/static/assests/nextflick-logo.png)
 
-## 🎥 🎞️**NextFlick** 🎬 📺 Your Personal Home Cinema Experience
+## 🎥 🎞️ **NextFlick** 🎬 📺 Your Personal Home Cinema Experience
 
 ##
 🍿 Bringing the Big Screen to Your Home 🍿
