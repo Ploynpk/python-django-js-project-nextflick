@@ -26,7 +26,7 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
     ```bash
     git clone https://github.com/your-username/python-django-project-nextflick.git
     ```
-On your terminal:
+- On your terminal:
      ```bash
      cd python-django-project-nextflick
      ```
