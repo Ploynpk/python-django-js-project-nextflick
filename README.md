@@ -49,6 +49,7 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
     ```
 
 4. Open the app in your browser:
+
    Visit the following URL:
      ```bash
      http://127.0.0.1:8000
