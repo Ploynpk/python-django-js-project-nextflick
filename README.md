@@ -37,13 +37,13 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
     source myenv/bin/activate
     ```
 
-3. Upgrade pip and Install Django (if needed):
+- Upgrade pip and Install Django (if needed):
     ```bash
     python -m pip install --upgrade pip
     pip3 install django
     ```
 
-4. Run the development server:
+3. Run the development server:
     ```bash
     python3 manage.py runserver
     ```
