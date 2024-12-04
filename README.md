@@ -30,6 +30,7 @@ On your terminal:
      ```bash
      cd python-django-project-nextflick
      ```
+     
 2. Set Up a Virtual Environment:
     ```bash
     python3.13 -m venv myenv
