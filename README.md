@@ -41,7 +41,6 @@ NextFlick aims to provide a seamless home cinema experience by offering an intui
     ```
 
     - Upgrade pip and Install Django (if needed):
-      
         ```bash
         python -m pip install --upgrade pip
         
