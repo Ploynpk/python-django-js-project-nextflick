@@ -1,7 +1,7 @@
 # python-django-project-nextflick
 ## On process..
 
-![NextFlick Logo](https://github.com/Ploynpk/python-django-project-nextflick/blob/453c16e203bec070862dba99bd0c54db76ece736/static/assests/nextflick-logo.png)
+![NextFlick Logo](https://github.com/Ploynpk/python-django-js-project-nextflick/blob/39692285d728cb4ccff9a27b824228080514d96e/static/assests/nextflick-logo.png)
 
 **NextFlick** - Your Personal Home Cinema Experience
 
